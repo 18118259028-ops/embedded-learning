@@ -1,0 +1,25 @@
+# MDK/Keil
+*.uvguix*
+*.uvoptx
+*.scvd
+RTE/
+*.lst
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.dep
+*.iex
+JLinkLog.txt
+*.OS
+
+# VS Code
+.vscode/
+
+# 编译产物
+*.hex
+*.bin
+*.elf
+*.out
