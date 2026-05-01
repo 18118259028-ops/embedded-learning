@@ -1,0 +1,33 @@
+# Keil MDK
+*.uvguix*
+*.uvoptx
+*.scvd
+RTE/
+Objects/
+Listings/
+*.lst
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.dep
+*.iex
+*.build_log.htm
+JLinkLog.txt
+*.ini
+
+# 编译输出
+*.hex
+*.bin
+*.elf
+*.out
+
+# VS Code
+.vscode/
+
+# 临时文件
+*.tmp
+*.bak
+*~
